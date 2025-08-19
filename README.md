@@ -34,10 +34,16 @@ This project addresses those challenges by building a **Supplier Performance & R
 
 ---
 
+## Datasets
+- [Original dataset from Kaggle](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset)
+- [Cleaned dataset after preprocessing](https://drive.google.com/file/d/1PlCwEBgz7Zd6PNTXUfF0YF6hqhsyZseO/view?usp=drive_link) 
+
+---
+
 ## 📂 Project Structure
-- `https://drive.google.com/file/d/1PlCwEBgz7Zd6PNTXUfF0YF6hqhsyZseO/view?usp=drive_link` → Raw dataset  
+- `supply_chain_data.csv` → Raw dataset  
 - `supply_chain_data_cleaned.csv` → Cleaned dataset after preprocessing  
-- `supplier_analysis.ipynb` → Main notebook for analysis & visualization  
+- `Supplier_Performance_&_Risk_Scoring_Analysis.ipynb` → Main notebook for analysis & visualization  
 - `images/` → Folder containing output charts (histogram, boxplot, heatmap, etc.)  
 
 ---
@@ -86,5 +92,6 @@ This project addresses those challenges by building a **Supplier Performance & R
 
 ---
 
-👨‍💻 **Author**: *[Your Name]*  
-📅 **Project**: Supplier Performance & Risk Scoring Analysis
+## 👨‍💻 Author
+**Carmenita Lamba**
+[LinkedIn](https://www.linkedin.com/in/carmenita-lamba-6a7555220/)
