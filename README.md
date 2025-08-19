@@ -41,11 +41,11 @@ This project addresses those challenges by building a **Supplier Performance & R
 ---
 
 ## 📂 Project Structure
--'Datasets/':
+-**Datasets**:
          - `supply_chain_data.csv` → Raw dataset  
          - `supply_chain_data_cleaned.csv` → Cleaned dataset after preprocessing  
-- `Supplier_Performance_&_Risk_Scoring_Analysis.ipynb` → Main notebook for analysis & visualization  
-- `images/` → Folder containing output charts (histogram, boxplot, heatmap, etc.)  
+- '**Supplier_Performance_&_Risk_Scoring_Analysis.ipynb**` → Main notebook for analysis & visualization  
+- `**images/**` → Folder containing output charts (histogram, boxplot, heatmap, etc.)  
 
 ---
 
